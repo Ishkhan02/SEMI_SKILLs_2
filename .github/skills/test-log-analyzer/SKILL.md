@@ -100,9 +100,7 @@ If the requested test cannot be found, say that explicitly and recommend the nea
 ## Output contract
 
 The script should produce:
-1. A markdown report using `assets/output-template.md`
-2. Optional PNG plots for each sigma target
-3. Optional JSON metrics file when needed for downstream automation
+A markdown report using `assets/output-template.md`
 
 ## Response style
 
